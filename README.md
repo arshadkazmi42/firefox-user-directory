@@ -24,11 +24,6 @@ console.log(path);
 
 ```
 
-## API
-
-- **from(url)**
-  - Returns domain name from input url
-
 ## Contributing
 
 Interested in contributing to this project?
