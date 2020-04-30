@@ -1,6 +1,6 @@
 {
   "name": "firefox-user-directory",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get abosulte path of firefox user directory - crossplatform",
   "main": "index.js",
   "scripts": {
